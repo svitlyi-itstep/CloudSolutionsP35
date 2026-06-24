@@ -13,3 +13,5 @@
 1. [Знайомство з AWS Skill Builder](/Homeworks/Homework_1.md)
 2. [Розгортання Telegram-бота на EC2](/Homeworks/Homework_2.md)
 3. [Налаштування автозапуску та перезапуску на сервері EC2](/Homeworks/Homework_3.md)
+
+**🢂 [Завдання на фінальний проєкт](/FinalProject.md) 🢀**
